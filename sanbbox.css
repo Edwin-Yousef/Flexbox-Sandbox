@@ -32,7 +32,7 @@
 .child-seven:hover,
 .child-eight:hover {
     cursor: pointer;
-    transform: scale(1.5);
+    transform: scale(2);
 }
 
 .child-one {
